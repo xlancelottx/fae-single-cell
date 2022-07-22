@@ -1,0 +1,1 @@
+Place for useful functions etc.
